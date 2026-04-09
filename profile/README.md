@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99b8569d-4847-43b8-8592-afbf679f6663" width="250" alt="Logo de Entropy">
+  <img src="https://github.com/user-attachments/assets/99b8569d-4847-43b8-8592-afbf679f6663" width="1000" alt="Logo de Entropy">
 </p>
 
 # 🚀 Entropy
